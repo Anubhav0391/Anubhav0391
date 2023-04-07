@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=B71C1C&size=25&center=false&lines=I+am+Anubhav+Dixit.+.+.;An+aspiring+Full+Stack+Web+Developer.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=B71C1C&size=20&center=false&lines=I+am+Anubhav+Dixit.+.+.;An+aspiring+Full+Stack+Web+Developer.+.+.)](https://git.io/typing-svg)
 
 - :telescope: I am currently learning front-end and backend technologies at Masai School.
 
