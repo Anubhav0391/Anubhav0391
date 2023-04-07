@@ -9,10 +9,7 @@
   <a href="https://www.linkedin.com/in/anubhav-dixit-753b51223">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- 
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 
-    <img src="https://img.shields.io/badge/telegram-Rich Electric Blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-address"/>
 
 </div>
 <br/>
