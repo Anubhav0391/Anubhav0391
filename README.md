@@ -2,7 +2,6 @@
   <img src="https://avatars.githubusercontent.com/u/115461691?v=4" width="100"/>
   
   ### Anubhav Dixit
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Gopi;Full+stack+web+developer...)](https://git.io/typing-svg)
   
 </div>
 <div id="badges" align="center">
@@ -20,7 +19,7 @@
 
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Anubhav+Dixit;Full+Stack+Web+Developer)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
