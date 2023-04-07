@@ -19,11 +19,13 @@
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Anubhav+Dixit...;Full+Stack+Web+Developer...)](https://git.io/typing-svg)
-
 
 ### :woman_technologist: About Me :
-I am Anubhav Dixit from India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p>I am 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Anubhav+Dixit...;Full+Stack+Web+Developer...)](https://git.io/typing-svg)
+  
+  from India.</p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
