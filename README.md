@@ -3,7 +3,10 @@
   
 <!--   ### Anubhav Dixit -->
 </div>
+<div id="badges" align="center">
+  <p>I am </p>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Anubhav+Dixit;Full+Stack+Web+Developer)](https://git.io/typing-svg) 
+  </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anubhav-dixit-753b51223">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
