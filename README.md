@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkdIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-2a107a85)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/viageralt)
-- 🗃️ Know about me: <a href='https://duke3o5.github.io/'>PORTFOLIO</a>
+- 🗃️ Know about me: <a href='https://Anubhav0391.github.io/'>PORTFOLIO</a>
 <!---
 duke3o5/duke3o5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -99,14 +99,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duke3o5)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anubhav0391)](https://git.io/streak-stats)
 <div/>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duke3o5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav0391)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=your-github-duke3o5&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-Anubhav0391&style=flat-square&color=blue" alt=""/>
 </div>
