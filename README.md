@@ -5,6 +5,7 @@
   
 </div>
 <div id="badges" align="center">
+  <img/>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Anubhav+Dixit...;Full+Stack+Web+Developer...)](https://git.io/typing-svg)
 
   </div>
