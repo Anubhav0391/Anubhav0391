@@ -29,7 +29,7 @@
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
-- 🗃️ Know more about me: <a href='https://Anubhav0391.github.io/'>PORTFOLIO</a>
+- 🗃️ Know more about me: <a href='https://anubhav0391.github.io/'>PORTFOLIO</a>
 
 <div align="left">
 
