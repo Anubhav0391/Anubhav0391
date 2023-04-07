@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/115461691?v=4" width="100"/>
   
-  ### Anubhav Dixit
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Anubhav+Dixit;Full+Stack+Web+Developer)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<!--   ### Anubhav Dixit -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Anubhav+Dixit;Full+Stack+Web+Developer)](https://git.io/typing-svg) 
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anubhav-dixit-753b51223">
@@ -19,7 +19,7 @@
 
 
 ### :woman_technologist: About Me :
-I am Anubhav Dixit from India.
+I am Anubhav Dixit from India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
