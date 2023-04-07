@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
   
 ### :large_blue_circle: Contributions made:
 
-<img src="https://github-readme-stats.vercel.app/api?username=duke3o5&count_private=true&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anubhav0391&count_private=true&theme=radical&show_icons=true" />
 <div/>
 <br/>
 
