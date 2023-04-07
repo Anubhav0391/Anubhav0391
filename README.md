@@ -2,10 +2,10 @@
   <img src="https://avatars.githubusercontent.com/u/115461691?v=4" width="100"/>
   
 <!--   ### Anubhav Dixit -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Anubhav+Dixit...;Full+Stack+Web+Developer...)](https://git.io/typing-svg)
+  <p>I am </p> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Anubhav+Dixit...;Full+Stack+Web+Developer...)](https://git.io/typing-svg)
 </div>
 <div id="badges" align="center">
-  <p>I am </p>
+ 
 
   </div>
 <div id="badges" align="center">
