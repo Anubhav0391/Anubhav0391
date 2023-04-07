@@ -21,10 +21,10 @@
 
 
 ### :woman_technologist: About Me :
-<p>I am
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Anubhav+Dixit...;Full+Stack+Web+Developer...)](https://git.io/typing-svg) from India.</p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=red&size=25&center=false&lines=I+am+Anubhav+Dixit...;An+aspiring+Full+Stack+Web+Developer...)](https://git.io/typing-svg)
+
+- :telescope: I am currently learning front-end and backend technologies at Masai School.
 
 - :seedling: Exploring Technical Content Writing.
 
