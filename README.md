@@ -31,11 +31,6 @@
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
 - 🗃️ Know more about me: <a href='https://Anubhav0391.github.io/'>PORTFOLIO</a>
-<!---
-duke3o5/duke3o5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 <div align="left">
 
@@ -47,12 +42,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/React.JS-61DAFB?logo=React&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Chakra UI-319795?logo=Chakra UI&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=flat" />
-
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=flat" />
 
 <div/>
 <br/>
@@ -63,7 +54,6 @@ You can click the Preview link to take a look at your changes.
 
 ### :hammer_and_wrench: Version Control and Development tools used:
 
-<img src="https://img.shields.io/badge/Subline Text-FF9800?logo=Sublime Text&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Replit-F26207?logo=Replit&logoColor=white&style=flat" />
@@ -77,7 +67,6 @@ You can click the Preview link to take a look at your changes.
 ### :electron: Operating System familiar with:
 
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white&style=flat" />
 <div/>
   <br/>
   
