@@ -5,7 +5,7 @@
 </div>
 <div id="badges" align="center">
   <p>I am </p>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Anubhav+Dixit;Full+Stack+Web+Developer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Gopi;Full+stack+web+developer...)](https://git.io/typing-svg)
   </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anubhav-dixit-753b51223">
