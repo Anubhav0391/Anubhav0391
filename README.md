@@ -93,7 +93,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav0391)](https://github.com/anubhav0391/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav0391)](https://github.com/anuragharza/github-readme-stats)
 
 
 <div align="left">
