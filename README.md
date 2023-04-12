@@ -74,7 +74,7 @@
   
 ### :large_blue_circle: Contributions made:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anubhav0391&count_private=true&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anubhav0391&count_private=true&theme=radical&show_icons=true" />
 <div/>
 <br/>
 
@@ -88,12 +88,12 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anubhav0391)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anubhav0391)](https://git.io/streak-stats)
 <div/>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav0391)](https://github.com/anubhav0391/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav0391)](https://github.com/anubhav0391/github-readme-stats)
 
 
 <div align="left">
